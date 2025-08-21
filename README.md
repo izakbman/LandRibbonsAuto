@@ -21,4 +21,9 @@ pip install matplotlib pandas numpy arcpy
 
 ```
 ## Example Plots: 
+![Alt text for image](images/ELK8347_fa19_ribbon.svg)
+
+![Another example image](images/ELK8347_sp19_ribbon.svg)
+
+![Third image with caption](images/gps01_fa21_ribbon.svg")
 
