@@ -27,7 +27,7 @@ pip install matplotlib pandas numpy arcpy
 
 ![Example Plot](images/gps01_fa21_ribbon_simple.svg")
 
-![Example Plot](images/gps01_sp21_ribbon.svg")
+![Example Plot](images/gps01_sp21_ribbon.svg ")
 
 ![Example Plot](images/gps50_fa21_ribbon_simple.svg")
 
